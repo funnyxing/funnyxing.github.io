@@ -1746,8 +1746,8 @@ pre .id {
   position: relative;
   margin: 0 30px;
   padding-right: 60px;
-  border-bottom: 1px solid #eee;
-  background: #fff
+  border-bottom: 1px solid #3d3d3d;
+  background: #222
 }
 
 .archives-wrap:first-child {
@@ -1768,7 +1768,7 @@ pre .id {
 }
 
 .archives-wrap .archive-year-wrap a {
-  color: #666;
+  color: #eee;
   font-weight: 700;
   padding-left: 48px
 }
@@ -1785,7 +1785,7 @@ pre .id {
   margin-left: 200px;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-  border-top: 1px solid #fff;
+  border-top: 1px solid #333;
   position: relative
 }
 
@@ -1799,7 +1799,7 @@ pre .id {
 
 .archives .archive-article-title {
   font-size: 16px;
-  color: #333;
+  color: #dedede;
   transition: color .3s
 }
 
@@ -2494,11 +2494,11 @@ pre .id {
 }
 
 .article-entry table thead tr {
-  background: #f8f8f8
+  background: rgba(255, 255, 255, 0)
 }
 
 .article-entry table tbody tr:hover {
-  background: #efefef
+  background: #1f4d80
 }
 
 .article-entry table td,
