@@ -877,7 +877,7 @@ textarea {
 
 body {
   overflow-y: hidden;
-  background: #eaeaea
+  background: #4d4d4d
 }
 
 #container,
@@ -1120,7 +1120,7 @@ html {
 
 .article-entry .highlight,
 .article-entry pre {
-  background: #272822;
+  background: #333;
   margin: 10px 0;
   padding: 10px;
   overflow: auto;
