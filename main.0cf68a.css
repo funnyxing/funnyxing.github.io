@@ -2851,7 +2851,7 @@ pre .id {
   min-width: 200px;
   width: auto;
   font-size: 14px;
-  text-shadow: 1px 1px 1px #398199;
+  text-shadow: 1px 1px 1px #eee0;
   bottom: -10px;
   -webkit-transform-origin: 100% 100%;
   transform-origin: 100% 100%;
@@ -2935,7 +2935,7 @@ pre .id {
   border-radius: 20px;
   font-size: 1.1em;
   text-align: center;
-  color: #333;
+  color: #fff;
   opacity: 0;
   cursor: default;
   pointer-events: none;
