@@ -2362,7 +2362,7 @@ pre .id {
   padding: 1px 3px;
   margin: 0 3px;
   background: #ddd0;
-  border: 1px solid #181a1b;
+  border: 1px solid #ddd0;
   font-family: Menlo, Monaco, Andale Mono, lucida console, Courier New, monospace;
   word-wrap: break-word;
   font-size: 14px
